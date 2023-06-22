@@ -61,6 +61,9 @@ print(datasummary)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+In the table created from the code above it is visible that the growth of countries with no revolutions have a higher growth, this is depicted by the mean and median being 2.46 and 2.29 compared to the 1.68 and 1.92 of countries with more than 0 revolutions. 
+
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
