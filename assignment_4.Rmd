@@ -64,9 +64,6 @@ print(datasummary)
 In the table created from the code above it is visible that the growth of countries with no revolutions have a higher growth, this is depicted by the mean and median being 2.46 and 2.29 compared to the 1.68 and 1.92 of countries with more than 0 revolutions. 
 
 
-In the table created from the code above it is visible that the growth of countries with no revolutions have a higher growth, this is depicted by the mean and median being 2.46 and 2.29 compared to the 1.68 and 1.92 of countries with more than 0 revolutions. 
-
-
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
